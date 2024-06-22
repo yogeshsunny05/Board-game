@@ -47,7 +47,14 @@ This web application displays lists of board games and their reviews. While anyo
 1. Clone the repository
 2. Open the project in your IDE of choice
 3. Run the application
-4. To use initial user data, use the following credentials.
-  - username: bugs    |     password: bunny (user role)
-  - username: daffy   |     password: duck  (manager role)
-5. You can also sign-up as a new user and customize your role to play with the application! 😊
+![Screenshot 2024-06-22 140919](https://github.com/yogeshsunny05/Board-game/assets/139520226/9b5e9c5d-cd04-4486-9547-cdb9681eb7c8)
+
+![Screenshot 2024-06-22 140758](https://github.com/yogeshsunny05/Board-game/assets/139520226/0bc96494-5ded-40eb-8ee2-6c99ace8c659)
+
+![Screenshot 2024-06-22 141029](https://github.com/yogeshsunny05/Board-game/assets/139520226/5bbcc397-97fa-4c4b-8a1a-e4ac5c5cdd18)
+
+![Screenshot 2024-06-22 141450](https://github.com/yogeshsunny05/Board-game/assets/139520226/22225e48-530a-4b93-b302-1fffe4ccaa10)
+
+![Screenshot 2024-06-22 140818](https://github.com/yogeshsunny05/Board-game/assets/139520226/649e2c19-0ca4-4162-bdef-2b6489f43a0d)
+
+![Screenshot 2024-06-22 140958](https://github.com/yogeshsunny05/Board-game/assets/139520226/eb89ca58-b1ca-4354-ae0f-7731eecd7817)
