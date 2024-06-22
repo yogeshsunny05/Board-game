@@ -47,6 +47,9 @@ This web application displays lists of board games and their reviews. While anyo
 1. Clone the repository
 2. Open the project in your IDE of choice
 3. Run the application
+
+## Some screenshots
+
 ![Screenshot 2024-06-22 140919](https://github.com/yogeshsunny05/Board-game/assets/139520226/9b5e9c5d-cd04-4486-9547-cdb9681eb7c8)
 
 ![Screenshot 2024-06-22 140758](https://github.com/yogeshsunny05/Board-game/assets/139520226/0bc96494-5ded-40eb-8ee2-6c99ace8c659)
